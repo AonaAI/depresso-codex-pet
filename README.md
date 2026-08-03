@@ -1,6 +1,6 @@
 # Depresso for Codex
 
-An unofficial, noncommercial Depresso pet for the ChatGPT desktop app and Codex CLI.
+An unofficial, noncommercial Depresso pet for the ChatGPT desktop app and Codex CLI. Version 1.1 improves the running, waving, and jumping motion cycles.
 
 ![Depresso preview](preview.png)
 
