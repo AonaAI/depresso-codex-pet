@@ -1,6 +1,6 @@
 # Depresso for Codex
 
-An unofficial, noncommercial Depresso pet for the ChatGPT desktop app and Codex CLI. Version 1.2 adds Depresso-style idle and waiting loops: sleepless, grouchy, and quietly kind.
+An unofficial, noncommercial Depresso pet for the ChatGPT desktop app and Codex CLI. Version 1.3 keeps Depresso grounded: the app's jump state now plays a reluctant caffeine-jolt reaction instead of an airborne jump, alongside the sleepless, grouchy idle and waiting loops.
 
 ![Depresso preview](preview.png)
 
