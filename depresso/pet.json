@@ -1,0 +1,7 @@
+{
+  "id": "depresso",
+  "displayName": "Depresso",
+  "description": "A faithful recreation of Depresso from Palworld for the Codex pet runtime.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}
