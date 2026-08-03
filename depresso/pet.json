@@ -1,7 +1,7 @@
 {
   "id": "depresso",
   "displayName": "Depresso",
-  "description": "A faithful, fluid recreation of Depresso from Palworld for the Codex pet runtime.",
+  "description": "A faithful Depresso pet: sleepless, grouchy, quietly kind, and surprisingly focused when needed.",
   "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }
