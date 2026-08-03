@@ -5,7 +5,7 @@ script_dir=$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)
 target_root=${CODEX_PET_DIR:-"$HOME/.codex/pets"}
 target_dir="$target_root/depresso"
 
-if [ ! -f "$script_dir/depresso/pet.json" ] || [ ! -f "$script_dir/depresso/spritesheet.webp" ]; then
+if [ ! -f "$script_dir/depresso/pet.json" ] || [ ! -f "$script_dir/depresso/spritesheet-grounded-v1.3.1.webp" ]; then
   echo "This installer must be run from the extracted release folder." >&2
   exit 1
 fi
