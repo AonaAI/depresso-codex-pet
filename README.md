@@ -4,6 +4,12 @@ An unofficial, noncommercial Depresso pet for the ChatGPT desktop app and Codex 
 
 ![Depresso preview](preview.png)
 
+### Shareable coffee break
+
+![Depresso takes a coffee break](media/depresso-coffee-break.gif)
+
+Download [`depresso-coffee-break.gif`](media/depresso-coffee-break.gif) to share it in Slack, Discord, or any chat that supports GIFs.
+
 ## Install
 
 ### macOS or Linux
