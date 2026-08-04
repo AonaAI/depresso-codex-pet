@@ -10,6 +10,10 @@ An unofficial, noncommercial Depresso pet for the ChatGPT desktop app and Codex 
 
 Download [`depresso-coffee-break.gif`](media/depresso-coffee-break.gif) to share it in Slack, Discord, or any chat that supports GIFs.
 
+### All shareable animations
+
+Nine chat-ready GIFs are available in [`media/animations/`](media/animations/): idle, running left/right, waving, grounded caffeine jolt, failed, waiting, focused work, and coffee review.
+
 ## Install
 
 ### macOS or Linux
